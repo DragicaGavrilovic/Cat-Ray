@@ -1,6 +1,29 @@
 # Cat ray
 
-Cat ray je uređaj koji služi za zanimanje mačaka pomoću pokretnog lasera i kreiran je pomoću Arduino platforme.
+## Autori
+
+    Dragica Gavrilović
+        Email: dragicagavrilovic05@gmail.com
+        Github: https://github.com/DragicaGavrilovic
+
+    Konstantin Petrović
+        Email: kokalinamax@gmail.com
+        Github: https://github.com/konstantin156
+
+    Maksim Zečević
+        Email: maxzecue@gmail.com
+        Github: https://github.com/Zeko005
+
+## Opis / Description
+
+Cat ray je uređaj koji služi za zanimanje mačaka pomoću pokretnog lasera i kreiran je pomoću Arduino platforme. se sastoji iz dva servo motora i jednog lasera. Donji motor rotira gornji, a za gornji je zakačen laser. Ideja je da se laser pomera nasumično, bez ikakve pravilnosti, i da se u istoj tački zadržava različito vreme. 
+
+Projekat je urađen u Istraživačkoj stanici Petnica tokom septembra 2022. godine. 
+
+Cat ray is a device that attracts cats using a moving laser. It is created using the Arduino platform.
+Device consists of two servo motors and one laser. The lower motor rotates the upper one, and a laser is attached to the upper one. The idea is to move the laser randomly, without any regularity, and to stay at the same point for different times. 
+
+The project was created at the Petnica Science Center during September 2022.
 
 ## Hardver
 
@@ -17,21 +40,5 @@ Isti postupak se ponavlja i za gornji motor.
 
 ## Zaključak
 
-Smatramo da smo projekat dobro uradili, telo za uređaj je jednostavno i veoma optimizovano, što je omogućilo brzo štampanje, šema je takođe jednostavna, a kod je efikasno odgovorio zahtevima. Naravno, postoji dosta prostora za unapređenje. Jedno poboljšanje bi moglo da bude dodavanje trećeg motora, kao još jednu osu rotacije. Naredni korak bi bilo pravljenje čitave robotske ruke, sa šakom umesto lasera. Upravo to su ideje za naše naredne projekte.
-
-## The short notice in English
-
-Cat ray is a device that attracts cats using a moving laser. It is created using the Arduino platform.
-Device consists of two servo motors and one laser. The lower motor rotates the upper one, and a laser is attached to the upper one. So both motors move the laser. It was also necessary to make a body for the device. For that, we used a 3D printer and the Fusion 365 program.
-The idea is to move the laser randomly, without any regularity, and to stay at the same point for different times. Also, the laser is on all the time.
-
-## Autori
-
-Dragica Gavrilović
-Konstantin Petrović
-Maksim Zečević
-
-
-
-
+Smatramo da smo projekat dobro uradili, telo za uređaj je jednostavno i veoma optimizovano, što je omogućilo brzo štampanje, šema je takođe jednostavna, a kod je efikasno odgovorio zahtevima. Naravno, postoji dosta prostora za unapređenje. Jedno poboljšanje bi moglo da bude dodavanje trećeg motora, kao još jednu osu rotacije. Naredni korak bi bio pravljenje čitave robotske ruke, sa šakom umesto lasera. Upravo to su ideje za naše naredne projekte.
 
